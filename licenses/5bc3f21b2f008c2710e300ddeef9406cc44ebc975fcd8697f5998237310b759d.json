@@ -4,7 +4,9 @@
   "machine_id": "5bc3f21b2f008c2710e300ddeef9406cc44ebc975fcd8697f5998237310b759d",
   "issued_at": "2026-10-12",
   "expires_at": "2027-10-13",
-  "status": "active",
+  "status": "revoked",
   "source_issue": 3,
-  "signature": "s+HEWfaLW1jRj0VnemEzYB9omI0S8umVQMSjnOlRCHa8ZlIX/rKWE7nrGt0pgBx8lMAvz3BzNQXlJfAt/KBPAg=="
+  "revoked_at": "2026-10-12",
+  "revocation_reason": "管理员撤销",
+  "signature": "cRZ12RrsTgHdUQ0T9hvNufWVXVKSieORehaEUt1zXFKgw8kz4yQOgDYjcV57moZVwnQqkegwt9PRU3oKzAocBw=="
 }
